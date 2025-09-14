@@ -61,7 +61,7 @@ function checkAnswer(currentLevel) {
         startOver();
         nextSequence(); 
 
-      },200);
+      },1000);
       
       /*startOver();*/
 
